@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Dashboard</string>
+    <string name="splash_name">PocketPal</string>
     <string name="number1">Income</string>
     <string name="number2">Expenses</string>
     <string name="number3">Savings</string>
+
 
 </resources>
